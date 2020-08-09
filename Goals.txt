@@ -1,6 +1,7 @@
 Goals to acheive and future time limits:
-  Data Structures
-  MySQL
-  Algorithm design and analysis
-  Android app Development
-  Machine Learning
+  Data Structures               : 5 days
+  MySQL                         : 5 days
+  Algorithm design and analysis : 10 days
+  Android app Development       : 15 days
+  Machine Learning              : 15 days
+  Web Development               : 10 days
