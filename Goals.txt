@@ -1,0 +1,6 @@
+Goals to acheive and future time limits:
+  Data Structures
+  MySQL
+  Algorithm design and analysis
+  Android app Development
+  Machine Learning
